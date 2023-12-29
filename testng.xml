@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="YopMail Automation Suite">
+    <test name="YopMail Test">
+        <classes>
+            <class name="Automation.SeleniumTest"/>
+        </classes>
+    </test>
+</suite>
